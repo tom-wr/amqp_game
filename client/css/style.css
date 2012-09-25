@@ -1,0 +1,37 @@
+body {
+	background-color: #000;
+	margin:0px;
+	padding:0px;
+}
+
+.container{
+	padding:0;
+	margin: 0;
+	width: 961px;
+	height: 500px;
+	margin-top: 75px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #000B17;
+
+	-moz-box-shadow: 0 0 35px 30px #fff;
+	-webkit-box-shadow: 0 0 35px 30px #fff;
+	box-shadow: 0 0 35px 30px #000B17;
+}
+
+canvas{
+	position:relative;
+	padding: 0;
+	margin: 0;
+	float:left;
+}
+
+#background_canvas{
+	position: relative;
+	left: 0px;
+	border: 1px solid #999;
+}
+
+#side_canvas{
+	
+}
